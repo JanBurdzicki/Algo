@@ -1,2 +1,20 @@
-*
-!.gitignore
+# *
+# !.gitignore
+
+Algebra/Number-Theoric Functions/Eulers Totient Function Sieve Of Eratosthenes.cpp
+Algebra/Fundamentals/Factoring Exponentation.cpp
+Algebra/Fundamentals/Linear Diophantine Equations.cpp
+Algebra/Prime Numbers/Linear Sieve.cpp
+Algebra/Prime Numbers/Integer Factorization.cpp
+Data Structures/Segment Tree/Segment Tree Update Punkt Query Przedzial.cpp
+DP/Problem Wydawania Reszty.cpp
+DP/LPS.cpp
+Graphs/Shortest Path/TODO.md
+Graphs/BCC Low Inna Wersja Testowa.cpp
+Graphs/2SAT Plany Na Przyszlosc.md
+Graphs/Trees/s.sh
+Graphs/Trees/gen tree stupid.cpp
+Inne/Mnozenie Wielomianow/Karatsuba Kubina.cpp
+Inne/Mnozenie Wielomianow/Karatsuba Moje Pozostalosci.cpp
+Inne/Meet In The Middle.cpp
+TODO.md
